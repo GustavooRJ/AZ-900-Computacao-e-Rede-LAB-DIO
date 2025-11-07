@@ -14,3 +14,7 @@ Na parte de criação da nossa VM, logo após de preencher o nome e região, vim
      - Porta sendo utilizada é a RDP 3389 
      - Parte de backup
        entre outros pontos
+Área de Trabalho Azure
+  - Tipos de pool de hosts
+      - Temos 2 tipos o Pessoa e o Em pool (em grupo)
+        
